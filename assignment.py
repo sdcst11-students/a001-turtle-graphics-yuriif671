@@ -1,3 +1,5 @@
+#this paints a turtle
+
 import turtle
 
 s = turtle.getscreen()
